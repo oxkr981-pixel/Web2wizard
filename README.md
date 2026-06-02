@@ -52,6 +52,20 @@ YouTube Desktop Setup.exe
 * Windows Forms
 * WebView2
 * Inno Setup
+  ## Icons
+
+You can use custom icons for generated applications.
+
+Recommended icon sources:
+
+- Icons8
+- Flaticon
+- IconArchive
+- SVG Repo
+
+Supported formats:
+- .ico (recommended)
+- .png (future support)
 
 ## Developer
 
