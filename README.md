@@ -21,6 +21,17 @@ Convert any website into a Windows desktop application.
 - Microsoft Edge WebView2 Runtime
 - Inno Setup (for installer generation)
 
+Before generating installers, install:
+
+- Microsoft Edge WebView2 Runtime
+- Inno Setup 6
+
+Inno Setup:
+https://jrsoftware.org/isinfo.php
+
+WebView2 Runtime:
+https://developer.microsoft.com/microsoft-edge/webview2/
+
 ## How to Use
 
 1. Enter an application name.
